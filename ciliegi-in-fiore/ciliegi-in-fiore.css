@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.main-section {
+  padding: 20px;
+}
+
+.image-container {
+  height: 500px;
+  background-image: url('ciliegi.fiore.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  font-family: 'Prata', serif;
+  font-size: 64px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: 'Prata', serif;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+p a {
+  font-weight: 600;
+  font-style: italic;
+  text-decoration: none;
+  color: #74c69d;
+}
+
+h6 {
+  padding: 22px;
+  margin-top: 56px;
+  margin-bottom: 0;
+  color: white;
+  border-radius: 6px;
+  background: linear-gradient(to right, #fcfcfb, #a4ddfc); 
+}
+
+.no-bullets {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.no-bullets li {
+  padding: 6px 0;
+  padding-left: 22px;
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.no-bullets li a {
+  text-decoration: none;
+  color: #f7cac9;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+
+.link-yoshino {
+  background: linear-gradient(to right, #f7cac9, #b7e4c7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+.link-chureito {
+  background: linear-gradient(to right, #ff9a9e, #fad0c4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+.link-hirosaki {
+  background: linear-gradient(to right, #f6e6d9, #c9ada7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+.link-philosopher {
+  background: linear-gradient(to right, #c3cfe2, #f5f7fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+.link-shinjuku {
+  background: linear-gradient(to right, #f28ab2, #ffd1dc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
+.link-home-main {
+  background: linear-gradient(to right, #fcfcfb, #a4ddfc); 
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-block;
+}
