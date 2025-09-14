@@ -1,0 +1,17 @@
+Titolo: Philosopher’s Path
+
+Descrizione:
+Questo progetto è dedicato al celebre Philosopher’s Path (Tetsugaku no Michi), un sentiero pedonale lungo circa due chilometri che costeggia un canale nel distretto Higashiyama di Kyoto. Il percorso è fiancheggiato da centinaia di alberi di ciliegio che, in primavera, offrono uno spettacolo di fioritura tra i più suggestivi del Giappone. Il sito web propone una rappresentazione visiva e testuale dell’esperienza hanami lungo il sentiero, con un gradiente CSS personalizzato ispirato ai colori della riflessione: lavanda, bianco perlaceo e azzurro tenue.
+
+Obiettivi:
+- Evocare la serenità e la bellezza effimera del Philosopher’s Path
+- Integrare riferimenti culturali e filosofici legati a Nishida Kitarō, fondatore della Scuola di Kyoto
+- Offrire una navigazione armoniosa tra i luoghi correlati all’hanami
+
+Tecnologie utilizzate:
+- HTML5 per la struttura della pagina
+- CSS3 per lo stile e il gradiente personalizzato
+- Classi dedicate per i link tematici e il footer
+
+Note:
+Il gradiente utilizzato per questa pagina è esclusivo e non condiviso con altri progetti. Il footer include un link alla homepage (`ciliegi-in-fiore.html`) stilizzato con un gradiente universale, neutro rispetto ai singoli luoghi.

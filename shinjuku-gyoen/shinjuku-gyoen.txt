@@ -1,0 +1,17 @@
+Titolo: Shinjuku Gyoen
+
+Descrizione:
+Questo progetto è dedicato al parco Shinjuku Gyoen, uno dei luoghi più amati per l’hanami a Tokyo. Situato nel cuore del quartiere Shinjuku, il parco offre un’oasi di pace con oltre 1.000 alberi di ciliegio appartenenti a più di 68 varietà. La pagina web presenta una descrizione testuale del parco, immagini evocative e un gradiente CSS personalizzato ispirato ai colori primaverili: rosa acceso e rosa pastello. Il design riflette la fusione tra giardino giapponese, inglese e francese che caratterizza il sito.
+
+Obiettivi:
+- Rappresentare visivamente la varietà e la bellezza del parco durante la fioritura
+- Offrire una navigazione coerente con gli altri luoghi hanami
+- Trasmettere l’atmosfera rilassata e contemplativa del parco
+
+Tecnologie utilizzate:
+- HTML5 per la struttura della pagina
+- CSS3 per lo stile e il gradiente personalizzato
+- Classi dedicate per i link tematici e il footer
+
+Note:
+Il gradiente utilizzato per Shinjuku Gyoen è esclusivo e non condiviso con altri progetti. Il footer include un link alla homepage (`ciliegi-in-fiore.html`) stilizzato con un gradiente universale, neutro rispetto ai singoli luoghi.

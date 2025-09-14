@@ -1,0 +1,17 @@
+Titolo: Chureito Pagoda
+
+Descrizione:
+Questo progetto è dedicato alla celebre Pagoda Chureito, situata nel Parco Arakurayama Sengen, con vista panoramica sul Monte Fuji. La pagina web celebra uno dei luoghi più fotografati del Giappone durante l’hanami, con un design ispirato ai colori primaverili: rosso vermiglio della pagoda, rosa dei ciliegi e azzurro del cielo. Il layout è semplice e suggestivo, pensato per valorizzare l’iconicità del luogo.
+
+Obiettivi:
+- Rappresentare visivamente la bellezza della Pagoda Chureito in primavera
+- Offrire una navigazione coerente con gli altri luoghi hanami
+- Utilizzare gradienti CSS per evocare l’atmosfera del paesaggio
+
+Tecnologie utilizzate:
+- HTML5 per la struttura della pagina
+- CSS3 per lo stile e il gradiente personalizzato
+- Classi dedicate per i link tematici e il footer
+
+Note:
+Il gradiente usato per il link “Chureito Pagoda” è unico e non condiviso con altri progetti. Il footer include un link alla homepage (`ciliegi-in-fiore.html`) stilizzato con un gradiente universale.

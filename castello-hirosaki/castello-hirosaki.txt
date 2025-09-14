@@ -1,0 +1,17 @@
+Titolo: Parco del Castello di Hirosaki
+
+Descrizione:
+Questo progetto è una pagina web dedicata al celebre Parco del Castello di Hirosaki, uno dei luoghi più iconici per l’hanami nel nord del Giappone. Il sito presenta una descrizione testuale del parco, immagini evocative e un gradiente CSS personalizzato ispirato ai colori primaverili del paesaggio: rosa petalo, beige antico e lilla tenue. Il design mira a trasmettere la bellezza storica e naturale del sito, con un’interfaccia semplice e armoniosa.
+
+Obiettivi:
+- Rappresentare visivamente l’atmosfera del Parco di Hirosaki durante la fioritura
+- Utilizzare uno stile coerente con il tema hanami
+- Offrire una navigazione fluida verso gli altri luoghi correlati
+
+Tecnologie utilizzate:
+- HTML5 per la struttura della pagina
+- CSS3 per lo stile e il gradiente personalizzato
+- Classi dedicate per i link tematici
+
+Note:
+Il link alla homepage (`ciliegi-in-fiore.html`) è posizionato nel footer e stilizzato con un gradiente universale, distinto da quello usato per Hirosaki.

@@ -1,0 +1,17 @@
+Titolo: Ciliegi in Fiore
+
+Descrizione:
+Questo progetto è una pagina web statica dedicata ai luoghi iconici dell’hanami giapponese. Ogni destinazione (Monte Yoshino, Chureito Pagoda, Shinjuku Gyoen, ecc.) è rappresentata con un gradiente personalizzato ispirato ai colori reali del paesaggio durante la fioritura dei ciliegi. Il sito include link tematici, descrizioni testuali, e uno stile visivo coerente con l’estetica primaverile giapponese.
+
+Obiettivi:
+- Presentare visivamente i luoghi più famosi per l’hanami
+- Utilizzare gradienti CSS per evocare l’atmosfera di ciascun luogo
+- Offrire una navigazione semplice e coerente tra le pagine
+
+Tecnologie utilizzate:
+- HTML5 per la struttura delle pagine
+- CSS3 per lo stile e i gradienti personalizzati
+- Organizzazione modulare con classi dedicate per ogni link
+
+Note:
+Il progetto include un footer con un link alla pagina principale (`ciliegi-in-fiore.html`) stilizzato con un gradiente universale non associato a nessuna destinazione specifica.

@@ -1,0 +1,17 @@
+Titolo: Monte Yoshino
+
+Descrizione:
+Questo progetto è dedicato al Monte Yoshino, uno dei luoghi più iconici per l’hanami in Giappone, situato nella prefettura di Nara. La pagina web celebra la bellezza naturale e spirituale del monte, che ospita oltre 30.000 alberi di ciliegio distribuiti su quattro livelli altitudinali: Shimo Senbon, Naka Senbon, Kami Senbon e Oku Senbon. Il sito include descrizioni testuali, link tematici e un gradiente CSS personalizzato ispirato ai colori reali del paesaggio primaverile: rosa ciliegio e verde menta.
+
+Obiettivi:
+- Rappresentare visivamente la fioritura progressiva del Monte Yoshino
+- Offrire una navigazione coerente tra i luoghi correlati all’hanami
+- Integrare elementi culturali e spirituali legati al culto della montagna (Shugendō)
+
+Tecnologie utilizzate:
+- HTML5 per la struttura della pagina
+- CSS3 per lo stile e il gradiente personalizzato
+- Classi dedicate per i link tematici e il footer
+
+Note:
+Il gradiente utilizzato per Monte Yoshino è esclusivo e non condiviso con altri progetti. Il footer include un link alla homepage (`ciliegi-in-fiore.html`) stilizzato con un gradiente universale, neutro rispetto ai singoli luoghi.
